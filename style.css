@@ -11,21 +11,6 @@
   --Very-light-gray-color: hsl(0, 0%, 95%);
 }
 
-/* .lexend-deca-<uniquifier> {
-  font-family: "Lexend Deca", serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-  }
-  
-  
-  .big-shoulders-display-<uniquifier> {
-    font-family: "Big Shoulders Display", serif;
-    font-optical-sizing: auto;
-    font-weight: <weight>;
-  font-style: normal;
-} */
-
 * {
   margin: 0px;
   padding: 0px;
@@ -92,13 +77,13 @@ p {
 }
 
 .container .cards:nth-child(1) .img {
-  background-image: url(/images/icon-sedans.svg);
+  background-image: url(images/icon-sedans.svg);
 }
 .container .cards:nth-child(2) .img {
-  background-image: url(/images/icon-suvs.svg);
+  background-image: url(images/icon-suvs.svg);
 }
 .container .cards:nth-child(3) .img {
-  background-image: url(/images/icon-luxury.svg);
+  background-image: url(images/icon-luxury.svg);
 }
 
 .img {
