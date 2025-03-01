@@ -118,13 +118,12 @@ p {
 .btn:hover {
   cursor: pointer;
   color: whitesmoke;
-  background-color: rgb(200,200,200,0%);
+  background-color: rgb(200, 200, 200, 0%);
   border: 1px var(--Very-light-gray-color) solid;
-  color: var(--Very-light-gray-color)
+  color: var(--Very-light-gray-color);
 }
 
-
-@media (width <= 450px){
+@media (width <= 450px) {
   .container {
     flex-direction: column;
     width: 60%;
